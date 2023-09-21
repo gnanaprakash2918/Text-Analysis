@@ -1,0 +1,101 @@
+S.no,text
+0,IRS holds record for oldest software system in continuous use
+1,Please sign Mozilla petition to stop France from forcing browsers to censor websites
+2,How Instagram scaled to 14 million users with only 3 engineers
+3,Unity Silently Deletes GitHub Repo that Tracks Terms of Service Changes and Updated Its License
+4,I reached my goal and now my snake game fits in a version 4 QR code
+5,Refusing TypeScript is a signal that you don't care about code quality
+6,Unity to introduce runtime fee based on installs
+7,"TIL of the ""Reverse Red Herrings"" phenomena - pieces of information that are discarded early on in an incident or system crash, which later turn out to be the very key which cracks the whole case"
+8,The Worst Programmer I Know
+9,Death by a thousand microservices
+10,8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers
+11,Any sufficiently advanced uninstaller is indistinguishable from malware
+12,"Margaret Betts, Bletchley Park codebreaker, has died at the age of 99"
+13,Android has a separate class and documentation to see how often you have sex
+14,Announcing Python in Excel: Combining the power of Python and the flexibility of Excel.
+15,IBM taps AI to translate COBOL code to Java | TechCrunch
+16,Code.gov is the federal government’s platform for sharing and exploring America’s open source software.
+17,OpenTF Announces Fork of Terraform
+18,A deep dive into the bug that caused the UK air traffic control meltdown
+19,Stack Overflow must change its attitude towards users.
+20,"Crumb: A New Programming Language Where There are No Keywords, and Everything is a Function"
+21,"Leslie Lamport says if you don’t get the design right from the beginning, then every piece of the code you write is a patch. Do you agree or disagree with his approach?"
+22,JetBrains RustRover
+23,My journey modifying the Rust compiler to target .NET runtime
+24,Introducing the new Godot Development Fund
+25,North Korean Hackers Suspected in New Wave of Malicious npm Packages
+26,"Should an answer on Stack Overflow remain a monument to itself, or provide a useful contemporary solution?"
+27,When a Programmer Holds the Code Hostage: The costs of a policy of appeasement
+28,"Ruby on Rails creator removes TypeScript from Turbo framework, upsets community • DEVCLASS"
+29,Intel Releases Updated Version Of Its Open-Source Font For Developers
+30,"No-WEI Banner: A banner that will display to Chrome visitors only, warning them of the dangers of WEI."
+31,Short session expiration does not help security
+32,7 coding habits of the best engineers I know
+33,My Solution To The Dev Skills Crisis: Much Smaller Teams
+34,Commit Mono Font - An Anonymous and Neutral Programming Typeface Focused On Creating a Better Reading Experience
+35,Visual Studio for Mac Retirement Announcement - Visual Studio Blog
+36,Do Developers Still Want Swag?
+37,Terraform Fork OpenTF Repository is now Public
+38,Java 21 makes me actually like Java again
+39,Two years for developing an MMO
+40,Explaining The Postgres Meme
+41,(Namecheap) Upcoming .COM and .XYZ domain price increase
+42,PostgreSQL 16 Released
+43,TIL the waterfall paper describes an iterative development process
+44,72-year-old C++ creator Bjarne Stroustrup shares life advice
+45,Dirty downside of 'return to office'; ending WFH could make climate crisis worse
+46,The 11 Types Of Toxic Pull Requests (According To 4.5 Million Code Branches)
+47,Turbo 8 is dropping TypeScript
+48,"I spent three years making this open source video pipeline library, today I'm releasing the first public build."
+49,Prefer Positive Booleans
+50,TDD Doesn't Force Good Design
+51,The Rust I wanted had No Future - Graydon Hoare
+52,"This website claims to offer secure and privacy aware PDF alteration for free, even when offline, by using WebAssembly. Are there any ways to validate those claims? For example, by using disassemblers for Wasm (if there are any)?"
+53,"I created GPT Pilot - a PoC for a dev tool that writes fully working apps from scratch while the developer oversees the implementation - it creates code and tests step by step as a human would, debugs the code, runs commands, and asks for feedback."
+54,The Log: What every software engineer should know about real-time data's unifying abstraction
+55,"Everything I wish I knew before moving 50,000 lines of code to React Server Components"
+56,"I didn't write any Javascript, and other shortcuts"
+57,Fixing an Unresponsive Medical Imaging Database (That the vendor couldn't fix)
+58,Just spelled Github wrong for the first time
+59,Should I use my personal Github account to write code for my company or create a new one?
+60,Why my favourite API is a zipfile on the European Central Bank's website
+61,"Configuring Identity - Adam Jacob, Chef, and the Search for Self in Software"
+62,Code Quality: Empirical Data Shatters The Speed Vs. Quality Myth
+63,Every Software Project is a Startup that Will Probably Fail
+64,What was the developer experience like in the old days?
+65,Stringzilla: 10x Faster SIMD-accelerated String Class
+66,The first conformant M1 GPU driver
+67,Writing a C compiler in 500 lines of Python
+68,Performance Improvements in .NET 8 - .NET Blog
+69,"Social Engineering: ""And all it took was a crying baby and a phone call?..."" 😱"
+70,The grug brained developer
+71,"The guy who ranted a few weeks ago about Data Scientists not being programmers is actually trying to teach them how to write tests - in Towards Data Science. Are there other things that they can learn from us? I'm not talking SOLID or TDD this time but code etiquette, maintenance, abstractions, etc."
+72,"Contributor License Agreements (CLAs) impede modest contributions. ""[B]asically a CLA means I'm not sending in our bug fixes. Not because I'm nasty, but because I can't."""
+73,Elixir Saves Pinterest $2 Million a Year In Server Costs
+74,An Excruciatingly Detailed Guide To SSH
+75,Use your database to power state machines
+76,GitLab's plan to support ActivityPub for merge requests
+77,GraphQL: Why would you want it?
+78,"How We Burnout, the ""Two Health Bar"" Theory"
+79,How to find time to learn after work
+80,Compiling typed Python: types are very broad hints and they are sometimes lies.
+81,How much faster is java 21?
+82,The reality of Not Invented Here
+83,Scrum: Failure By Design?
+84,Linear code is more readable
+85,Everything a developer needs to know about configuration and secret management in .NET
+86,Microservice architecture – the right way – even for startups
+87,Leveraging Rust in our high-performance Java database
+88,Running a Windows executable on Linux in 17 easy steps
+89,What to look for when hiring a new engineer for your team?
+90,Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512
+91,Scaling Cassandra to Tens of Thousands of Nodes at Uber
+92,100% Test Coverage Is Not Enough: In Praise of Property-Based Testing
+93,The Debugging Dilemma - Why So Many Beginners Give Up on Programming
+94,Loom's nightmare AWS outage and how it might have been prevented
+95,GitHub alienates users with AI recommendations
+96,RIP AWS Go Lambda Runtime | Mark Wolfe's Blog
+97,"All Major Software Architecture Patterns Explained in 7 Minutes | Meaning, Design, Models & Examples"
+98,Fully lock-free Actor Model and Software Transactional Memory in C++20
+99,"When an ""AI-powered developer platform"" ruins a UI, asks for feedback, gets and igores negative feedback: Updates to your GitHub Feed"
